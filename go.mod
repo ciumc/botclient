@@ -1,4 +1,4 @@
-module github.com/jayecc/botclient
+module github.com/ciumc/botclient
 
 go 1.16
 
